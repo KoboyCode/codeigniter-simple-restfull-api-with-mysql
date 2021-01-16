@@ -69,9 +69,3 @@ class Api extends CI_Controller {
 	}
 
 }
-
-{
-	"nama":"kategori 1",
-	"status": 1,
-	"jumlah": 2
-}
